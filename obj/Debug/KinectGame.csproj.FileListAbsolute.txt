@@ -1,0 +1,4 @@
+C:\Users\saleh_000\Desktop\SpeedWPFvSpecialEdition\SpeedWPF\Game\Kinect Game\KinectGame\bin\Debug\KinectGame.dll
+C:\Users\saleh_000\Desktop\SpeedWPFvSpecialEdition\SpeedWPF\Game\Kinect Game\KinectGame\bin\Debug\KinectGame.pdb
+C:\Users\saleh_000\Desktop\SpeedWPFvSpecialEdition\SpeedWPF\Game\Kinect Game\KinectGame\obj\Debug\KinectGame.dll
+C:\Users\saleh_000\Desktop\SpeedWPFvSpecialEdition\SpeedWPF\Game\Kinect Game\KinectGame\obj\Debug\KinectGame.pdb

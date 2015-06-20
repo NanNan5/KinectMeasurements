@@ -1,0 +1,3 @@
+D:\Dropbox\FYP Application\SpeedFinalVersion\Game\Kinect Game\KinectGame\obj\Debug\KinectMeasurements.csprojResolveAssemblyReference.cache
+D:\Dropbox\FYP Application\SpeedFinalVersion\Game\Kinect Game\KinectGame\obj\Debug\KinectGame.dll
+D:\Dropbox\FYP Application\SpeedFinalVersion\Game\Kinect Game\KinectGame\obj\Debug\KinectGame.pdb
